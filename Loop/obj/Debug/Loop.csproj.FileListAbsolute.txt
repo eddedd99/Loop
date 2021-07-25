@@ -1,0 +1,9 @@
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\Loop\Loop\bin\Debug\Loop.exe.config
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\Loop\Loop\bin\Debug\Loop.exe
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\Loop\Loop\bin\Debug\Loop.pdb
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\Loop\Loop\obj\Debug\Loop.csprojResolveAssemblyReference.cache
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\Loop\Loop\obj\Debug\Loop.frmLoop.resources
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\Loop\Loop\obj\Debug\Loop.Properties.Resources.resources
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\Loop\Loop\obj\Debug\Loop.csproj.GenerateResource.Cache
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\Loop\Loop\obj\Debug\Loop.exe
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\Loop\Loop\obj\Debug\Loop.pdb
